@@ -25,7 +25,7 @@ The course lasted 324 hours with synchronous classes every Monday, Wednesday and
 
 ## Purpose 
 
-This was the first project carried out at the end of the first module. My role in this project was to be a programmer hired by a large chain of car dealerships. The objective of this project was essentially to code a functionality that would send an email every Monday to customers who visited the stores during the last month informing them about the new available vehicles as well as payment conditions. As main skills required for this first project, students were challenged to exercise programming logic and essential features of the JavaScript language such as scope variables, functions, arrays, and modules.
+This was the first project carried out at the end of the first module. My role in this project was to be a programmer hired by a large chain of car dealerships. The objective of this project was essentially to code a functionality that would send an email every Monday to customers who visited the stores during the last month informing them about the new available vehicles as well as payment conditions. As main skills required for this first project, students were challenged to exercise programming logic and essential features of the JavaScript language such as scope of variables, functions, arrays, and modules.
 More about the specified requirements for this project can be read in the document below written in Brazilian Portuguese by the module's professor.
 
 ## Requirements
