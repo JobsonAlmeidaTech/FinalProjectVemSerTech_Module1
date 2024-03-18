@@ -26,34 +26,34 @@ The course lasted 324 hours with synchronous classes every Monday, Wednesday and
 ## Purpose 
 
 This was the first project carried out at the end of the first module. My role in this project was to be a programmer hired by a large chain of car dealerships. The objective of this project was essentially to code a functionality that would send an email every Monday to customers who visited the stores during the last month informing them about the new available vehicles as well as payment conditions. As main skills required for this first project, students were challenged to exercise programming logic and essential features of the JavaScript language such as scope of variables, functions, arrays, and modules.
-More about the specified requirements for this project can be read in the document below written in Brazilian Portuguese by the module's professor.
+More about the specified requirements for this project can be read in the document below written by the module professor.
 
 ## Requirements
 
-Você foi contratado como programador para uma grande rede de lojas de automóveis (CarStore) e o seu primeiro desafio é construir a funcionalidade de enviar um e-mail, todas as segundas-feiras, para os clientes que visitaram as lojas no último mês, informando-os sobre os novos veículos e os mais vendidos, bem como as condições para aquisição (sejam criativos).
+You were hired as a programmer for a large chain of automobile stores (CarStore) and your first challenge is to build the functionality to send an email, every Monday, to customers who visited the stores in the last month, informing tell them about new and best-selling vehicles, as well as the conditions for acquisition (be creative).
 
-    - Como não haverá acesso a banco de dados, uma lista (array) de emails deverá ser criada, onde estarão armazenados os emails dos clientes.
+     - As there will be no access to a database, an email list (array) must be created, where customer emails will be stored.
 
-    - A lista de emails armazenará, além do email de cada cliente, uma flag com a decisão do cliente sobre receber ou não comunicações de marketing.
+     - The email list will store, in addition to each customer's email, a flag with the customer's decision on whether or not to receive marketing communications.
 
-    - Será fornecida uma função, no arquivo "envia-email.js", que fará o envio "fake" do e-mail para um cliente.
+     - A function will be provided in the "envia-email.js" file, which will send a "fake" email to a customer.
 
-Dado o escopo global da aplicação, pede-se desenvolver cada subtarefa visando, ao final, a entrega completa da funcionalidade:
+Given the global scope of the application, each subtask is required to be developed aiming, in the end, to complete the delivery of the functionality:
 
-    1. Criar uma função para verificar o dia da semana atual, que será levado em conta para o disparo dos emails.
+     1. Create a function to check the current day of the week, which will be taken into account when sending emails.
 
-    2. Criar uma função para montar o corpo do e-mail a ser enviado.
+     2. Create a function to assemble the body of the email to be sent.
 
-    3. Criar uma função para enviar o e-mail para cada um dos clientes da lista, levando em conta a sua decisão sobre receber comunicações de marketing.
+     3. Create a function to send the email to each of the customers on the list, taking into account their decision about receiving marketing communications.
 
-    4. Tratar o retorno de erro ou sucesso da função "enviarEmail", de maneira a exibir uma mensagem amigável ao usuário no console.
+     4. Handle error or success returns from the "sendEmail" function, in order to display a user-friendly message in the console.
 
 ---
 
-#### Observações
+#### Comments
 
-    - Os passos acima são um guia, mas não obrigatórios. Podem desenvolver uma lógica diferente, que atenda ao solicitado.
+     - The steps above are a guide, but not mandatory. They can develop a different logic that meets what is requested.
 
-    - Podem separar as funcionalidades em arquivos, de acordo com a necessidade que houver.
+     - You can separate functionalities into files, according to your needs.
 
-    - Utilizar o arquivo envia-email como biblioteca que "simula" o envio real de um email.
+     - Use the send-email file as a library that "simulates" the actual sending of an email.
