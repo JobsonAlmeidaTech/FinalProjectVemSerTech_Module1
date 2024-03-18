@@ -1,4 +1,4 @@
-# <p align="center"> Module 1 Final Project - Car Dealership </p>
+# <p align="center"> Vem Ser Tech Course - Module 1 Final Project - Car Dealership </p>
 
 <p align="center"><img src="cardealership.jpg"  alt="cardealership" width="50%"/></p>
 
