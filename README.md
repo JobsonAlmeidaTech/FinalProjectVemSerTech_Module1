@@ -9,9 +9,9 @@
 
 Vem Ser Tech was a course offered by a partnership between the companies Ada Tech and iFood. Each student was offered one subject among 4 possibilities: Front-End, Back-End, DevOps and Data. I chose the Back-End technology track, which aimed to study the JavaScript language divided into 6 modules:
 
-Module 1: Programming Language
+Module 1: Programming Logic
 
-Module 2: Object Oriented Programming
+Module 2: Object-Oriented Programming
 
 Module 3: Database
 
