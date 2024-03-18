@@ -1,8 +1,8 @@
 # <p align="center"> Vem Ser Tech Course - Module 1 Final Project - Car Dealership </p>
 
 <p align="center">
-<img src="VemSerTech.jpg"  alt="VemSerTech" height="200px align="left" />
-<img src="cardealership.jpg"  alt="cardealership" height="200px align="right"/>
+<img src="images/VemSerTech.jpg"  alt="VemSerTech" height="200px align="left" />
+<img src="images/cardealership.jpg"  alt="cardealership" height="200px align="right"/>
 </p>
 
 ## Vem Ser Tech
