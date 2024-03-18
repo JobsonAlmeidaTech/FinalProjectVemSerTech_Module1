@@ -1,6 +1,17 @@
+<style>
+
+img{
+    display:inline
+}
+
+</style>
+
 # <p align="center"> Vem Ser Tech Course - Module 1 Final Project - Car Dealership </p>
 
-<p align="center"><img src="cardealership.jpg"  alt="cardealership" width="50%"/></p>
+<p align="center">
+<img src="VemSerTech.jpg"  alt="VemSerTech" height="200px align="left" />
+<img src="cardealership.jpg"  alt="cardealership" height="200px align="right"/>
+</p>
 
 ## Pourpose 
 
