@@ -1,11 +1,3 @@
-<style>
-
-img{
-    display:inline
-}
-
-</style>
-
 # <p align="center"> Vem Ser Tech Course - Module 1 Final Project - Car Dealership </p>
 
 <p align="center">
